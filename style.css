@@ -4,3 +4,11 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.title {
+    color:rgba(24, 195, 155, 0.874);
+    font-size: 75px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    text-align: center;
+}
