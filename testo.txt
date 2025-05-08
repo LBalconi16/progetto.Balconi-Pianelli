@@ -1,1 +1,21 @@
-Presentazione del mondo marino
+Presentazione del mondo marino:
+
+Pesce Mandarino (Synchiropus splendidus)
+Descrizione: Piccolo pesce marino dai colori sgargianti (blu, arancio, verde), vive nelle barriere coralline del Pacifico occidentale.
+Curiosità: Il pesce mandarino emette un muco sulla pelle che ha un cattivo odore e gusto, usato come difesa contro i predatori.
+__
+Pesce Angelo Imperatore (Pomacanthus imperator)
+Descrizione: Elegante pesce tropicale dai colori vivaci, noto per il cambiamento di livrea tra lo stadio giovanile (a strisce blu e bianche) e quello adulto (a strisce gialle e blu).
+Curiosità: Il cambiamento del disegno corporeo tra giovane e adulto è così drastico che per anni si pensava fossero due specie diverse.
+__
+Pesce Leone (Pterois spp.)
+Descrizione: Pesce marino con lunghe pinne spinose e striature rosse, bianche e marroni; è noto per il suo aspetto spettacolare e velenoso.
+Curiosità: Le sue spine dorsali sono velenose e possono causare dolore intenso agli esseri umani, ma raramente sono letali.
+__
+Pesce Chirurgo Blu (Paracanthurus hepatus)
+Descrizione: Riconoscibile per il corpo blu con una macchia nera a forma di “palette” e una coda gialla; noto anche come “Dory” nel film Alla ricerca di Nemo.
+Curiosità: Ha una spina affilata come un bisturi (da cui il nome “chirurgo”) vicino alla coda che usa per difendersi.
+__
+Pesce Farfalla (famiglia Chaetodontidae)
+Descrizione: Piccoli pesci dai colori vivaci e dal corpo appiattito, spesso con disegni intricati e una macchia scura vicino alla coda.
+Curiosità: Molte specie hanno una falsa "macchia occhio" vicino alla coda per confondere i predatori sul verso della fuga.
