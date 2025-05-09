@@ -22,14 +22,17 @@
     font-size: 0px;
 }
 
-.body_menu {
-    background-image: url('backgroung1.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+#sfondo-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover; 
+    z-index: -1; 
+  }
 
-}
+
 header {
     background: blanchedalmond; 
     padding: 5px;
@@ -48,6 +51,7 @@ header {
     color: rgb(0, 255, 106);
     margin: 15px;
     text-decoration: none;
+    border: 10px;
 }
 
 #animazione_menu {
