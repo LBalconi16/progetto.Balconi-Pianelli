@@ -48,10 +48,12 @@ header {
 }
 
 #menu-principale li a{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 17, 255);
     margin: 15px;
     text-decoration: none;
-    border: 10px;
+    border-radius: 20px;
+    background-color:  rgb(255, 255, 255);
+    padding: 5px;
 }
 
 #animazione_menu {
@@ -96,6 +98,7 @@ header {
 }
 
 
+
 @keyframes animazione_menu{
     0%{
         transform: translateY(30px) scale(0.8);
@@ -103,9 +106,9 @@ header {
     }
     100%{
         opacity: 2;
-        transform: translateY(3px) scale(1.5);
+        transform: translateY(0px) scale(1.5);
         box-shadow: 0px 0px 35px rgb(4, 60, 163);
-        border: 3px solid rgb(106, 171, 231);
+        border: 3px solid  rgb(0, 17, 255);
     }
 }
 
@@ -113,5 +116,6 @@ header {
     transition: color 0.2s ease-in-out;
 }
 #link:hover {
-    color: rgb(100, 236, 211);
+    color:  rgb(255, 255, 255);
+    background-color: rgb(0, 17, 255);
 }

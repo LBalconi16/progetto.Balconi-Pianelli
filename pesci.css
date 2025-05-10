@@ -8,6 +8,7 @@ h1 {
     font-size: 50px;
     position: relative;
     text-align: center;
+    color:whitesmoke;
 }
 
 h2 {
@@ -28,10 +29,29 @@ h3 {
     padding: 15px;
 }
 
+.immagine {
+    width: 100%;
+    display: block;
+}
+
+.cover {
+    border: solid 5px  rgb(0, 17, 255);
+    position: relative;
+}
+
+.cover__in {
+    position: absolute;
+    top: 0;
+    left:0;
+    width: 100%;
+    background: #000000;
+background: linear-gradient(180deg,rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
+}
+
 @media (max-width: 768px) {
     .col_50{
         width: 100%;
     }
     h1{font-size: 35px;}
-    h2{font-size: 20px;}
+    h2{font-size: 25px;}
 }
