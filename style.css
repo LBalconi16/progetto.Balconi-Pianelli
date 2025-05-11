@@ -6,14 +6,23 @@
     font-family: 'Franklin Gothic Heavy', sans-serif;
 }
 
+.contenitore {
+    display: flex;
+    align-items: start;
+    gap: 650px;
+}
 
+.contenitore img{
+    max-height: 50px;
+    width: auto;
+}
 
 .title {
     color:rgba(255, 255, 255, 0.874);
-    font-size: 75px;
+    font-size: 80px;
     position: relative;
     text-align: center;
-    text-shadow: 3px 3px 10px rgba(255, 255, 255, 0.8);
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.8);
 }
 
 .colore{
@@ -33,12 +42,15 @@
     height: 100%;
     object-fit: cover; 
     z-index: -1; 
-  }
-
+}
 
 header {
-    background: rgb(93, 226, 217); 
+    background: rgb(255, 255, 255); 
     padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 body, 
@@ -53,17 +65,17 @@ html{
 
 #menu-principale li{
     display: inline;
-    
 }
 
 /* rgb(0, 17, 255) */
 #menu-principale li a{
-    color: rgb(93, 226, 217);
+    color: rgb(255, 255, 255);
     margin: 15px;
     text-decoration: none;
     border-radius: 20px;
-    background-color:  rgb(255, 255, 255);
+    background-color:  #38849c;
     padding: 5px;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.8);
 }
 
 #animazione_menu {
@@ -78,7 +90,7 @@ html{
 
 #animazione_menu a{
     margin: 15px;
-    font-size: 35px;
+    font-size: 50px;
     list-style-type: none;
     text-decoration: none;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -92,14 +104,14 @@ html{
 
 
 #animazione_menu1 li a{
-    margin: 3px;
-    font-size: 20px;
+    margin: 0px;
+    font-size: 25px;
     display: inline;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 5px;
     width: 200px;
     height: 100px;
-    border-radius: 20px;
+    border-radius: 10px;
     animation: animazione_menu 1.5s ease-in-out forwards;
 }
 
@@ -118,7 +130,8 @@ html{
         opacity: 2;
         transform: translateY(0px) scale(1.5);
         box-shadow: 0px 0px 35px rgb(4, 60, 163);
-        border: 3px solid  rgb(93, 226, 217);
+        border: 3px solid  #38849c;
+        text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8)
     }
 }
 
@@ -126,6 +139,6 @@ html{
     transition: color 0.2s ease-in-out;
 }
 #link:hover {
-    color:  rgb(255, 255, 255);
-    background-color: rgb(93, 226, 217);
+    color:  #38849c;
+    background-color: rgb(255, 255, 255);
 }

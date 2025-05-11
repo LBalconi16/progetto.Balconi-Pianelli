@@ -3,6 +3,10 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+header {
+    font-family: 'Franklin Gothic Heavy', sans-serif;
+}
+
 h1 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50px;
@@ -51,7 +55,7 @@ p {
     left:0;
     width: 100%;
     background: #000000;
-background: linear-gradient(180deg,rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(180deg,rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 100%);
 }
 
 @media (max-width: 768px) {
