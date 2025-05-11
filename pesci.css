@@ -59,9 +59,6 @@ p {
 }
 
 @media (max-width: 768px) {
-    .col_50{
-        width: 100%;
-    }
     h1{font-size: 35px;}
     h2{font-size: 25px;}
 }

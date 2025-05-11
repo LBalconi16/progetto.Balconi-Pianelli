@@ -142,6 +142,27 @@ footer{
     }
 }
 
+
+@media (max-width: 1100px) {
+    .contenitore {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: start;
+        gap: 250px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 700px) {
+    .contenitore {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: start; 
+        gap: 40px;
+        text-align: center;
+    }
+}
+
 #link {
     transition: color 0.2s ease-in-out;
 }
